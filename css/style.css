@@ -73,7 +73,7 @@ body {
 	width: 24px;
 	height: 24px;
 	margin-right: 6px;
-	background-image: url('/img/keyboard_tab.svg');
+	background-image: url('./img/keyboard_tab.svg');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-color: transparent;
@@ -147,13 +147,13 @@ body {
 }
 
 .offers-item-maldive {
-	background: url('/img/maldive.png') center center no-repeat;
+	background: url('./img/maldive.png') center center no-repeat;
 }
 .offers-item-kret {
-	background: url('/img/krit.png') center center no-repeat;
+	background: url('./img/krit.png') center center no-repeat;
 }
 .offers-item-luks {
-	background: url('/img/luks.png') center center no-repeat;
+	background: url('./img/luks.png') center center no-repeat;
 	grid-column-start: 2;
 	grid-row: 1/3;
 	position: relative;
@@ -209,7 +209,7 @@ body {
 	display: inline-block;
 	width: 13px;
 	height: 20px;
-	background-image: url('/img/right.svg');
+	background-image: url('./img/right.svg');
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-color: transparent;
@@ -311,28 +311,28 @@ body {
 	margin-left: 45px;
 }
 .advantages-icon-1 {
-	background-image: url('/img/advantage-1.png');
+	background-image: url('./img/advantage-1.png');
 }
 .advantages-icon-2 {
-	background-image: url('/img/advantage-2.png');
+	background-image: url('./img/advantage-2.png');
 }
 .advantages-icon-3 {
-	background-image: url('/img/advantage-3.png');
+	background-image: url('./img/advantage-3.png');
 }
 .advantages-icon-4 {
-	background-image: url('/img/advantage-4.png');
+	background-image: url('./img/advantage-4.png');
 }
 .advantages-icon-5 {
-	background-image: url('/img/advantage-5.png');
+	background-image: url('./img/advantage-5.png');
 }
 .advantages-icon-6 {
-	background-image: url('/img/advantage-6.png');
+	background-image: url('./img/advantage-6.png');
 }
 .advantages-icon-7 {
-	background-image: url('/img/advantage-7.png');
+	background-image: url('./img/advantage-7.png');
 }
 .advantages-icon-8 {
-	background-image: url('/img/advantage-8.png');
+	background-image: url('./img/advantage-8.png');
 }
 
 .placement {
